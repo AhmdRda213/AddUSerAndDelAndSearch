@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/AddUSerAndDelAndSearch/static/css/main.f2b02c22.css",
+    "main.js": "/AddUSerAndDelAndSearch/static/js/main.00dcb866.js",
+    "index.html": "/AddUSerAndDelAndSearch/index.html",
+    "main.f2b02c22.css.map": "/AddUSerAndDelAndSearch/static/css/main.f2b02c22.css.map",
+    "main.00dcb866.js.map": "/AddUSerAndDelAndSearch/static/js/main.00dcb866.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f2b02c22.css",
+    "static/js/main.00dcb866.js"
+  ]
+}
