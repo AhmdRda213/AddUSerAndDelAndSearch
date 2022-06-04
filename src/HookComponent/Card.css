@@ -1,0 +1,27 @@
+
+.cont{
+    position: relative;
+}
+.delet{
+    position: absolute;
+    top:-20px;
+    right: -20px;
+    color: white !important;
+    z-index: 1;
+    font-size: 1rem;
+    
+   
+}
+.delet::after{
+    content: "";
+    width: 30px;
+    height: 30px;
+    background-color:#0667ac;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    z-index: -1;
+    border-radius: 15px;
+}
+
